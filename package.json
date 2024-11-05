@@ -1,5 +1,5 @@
 {
-  "name": "node-lowdb",
+  "name": "local-lowdb",
   "version": "0.0.1",
   "description": "Simple And Fast JSON database, copy from lowdb",
   "main": "lib/index.js",
