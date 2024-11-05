@@ -4,7 +4,7 @@
 
 ## Install （安装）
 
-> npm i node-lowdb --save
+> npm i local-lowdb --save
 
 ## API
 
